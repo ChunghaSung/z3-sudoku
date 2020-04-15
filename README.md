@@ -6,7 +6,7 @@ Sudoku puzzle using python APIs of Z3
 
  - The Z3 Python API requires libz3.dll/.so/.dylib in the 
     - ``PATH/LD_LIBRARY_PATH/DYLD_LIBRARY_PATH``
-    - environment variable and the ``PYTHONPATH`` environment variable needs to point to the `python' directory that contains ``z3/z3.py`` (which is at bin/python in our binary releases).
+    - environment variable and the ``PYTHONPATH`` environment variable needs to point to the ``python`` directory that contains ``z3/z3.py`` (which is at bin/python in our binary releases).
 
  - If you obtained example.py as part of our binary release zip files, which you unzipped into a directory called `MYZ3', then follow these instructions to run the example:
 
